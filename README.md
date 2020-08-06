@@ -1,2 +1,2 @@
 #  GitHub
-![](GitHub/About/socialite.jpg)
+![](About/socialite.jpg)
