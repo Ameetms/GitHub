@@ -18,6 +18,4 @@
 # * Shell
 
 #  ==========================================
-# Emotes of some GitHub 
-![](About/Images/luchadortocat.png)![](About/Images/spidertocat.png)![](About/Images/dojocat.jpg)
-
+# Emotes of some GitHub of Octocat
