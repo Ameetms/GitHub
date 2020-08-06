@@ -1,4 +1,4 @@
-![](About/Images/logo2.png)
+![](About/Images/logo.png) ![](About/Images/logo2.png)
 
 #  || GitHub is socially very popular because of its network ||
 ![](About/Images/socialite.jpg)
