@@ -18,6 +18,4 @@
 # * Shell
 
 #  ==========================================
-# Emotes of some GitHub 
-
-
+# Emotes of some GitHub of Octocat
