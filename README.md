@@ -19,5 +19,5 @@
 
 #  ==========================================
 # Emotes of some GitHub 
-![](About/Images/luchadortocat.png)![](About/Images/spidertocat.png)![](About/Images/dojocat.jpg)
+
 
