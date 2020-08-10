@@ -9,7 +9,7 @@
 
 # || Different type of language used in GitHub ||
 # * JavaScript:-
-   JavaScript has always been the most loved language by the developers
+  * JavaScript has always been the most loved language by the developers
 # * Python
 ![](About/Images/pythocat.png)
 # * Java
