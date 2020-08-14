@@ -17,6 +17,6 @@
 # * Typescript
 # * Shell
 
-#  ==========================================
+#  =====================================
 # Emotes of some GitHub of Octocat
 ![](About/Images/Untitled.png)
